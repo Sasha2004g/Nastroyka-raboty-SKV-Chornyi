@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.cab #файлы Cabinet
+
+*.msi #файлы Microsoft Windows Installer
+
+*.msix #файлы Microsoft Docs
+
+     *.msm #файлы Windows Installer Merge Module
+     
+     *.msp #файлы Patch
+     
+     *.stackdump #файлы Stackdump
+     
+     *.lnk #файлы Shell Link
